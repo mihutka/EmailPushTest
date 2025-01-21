@@ -13,7 +13,7 @@ jobs:
         # kasutatakse GitHubi tegevust e-kirjade saatmiseks
         uses: dawidd6/action-send-mail@v3
         with:
-          # SMTP serveri aadress ja port Gmaili jaoks
+          # SMTP serveri aadress ja port Gmaili jaokss
           server_address: smtp.gmail.com
           server_port: 465
           # kasutajanimi ja parool, mis on salvestatud GitHubi saladustesse
